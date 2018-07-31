@@ -13,6 +13,7 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista final com
     ```
     * Desenvolver os recursos em API Rest;
     * Utilizar um banco de dados relacional.
+    * Interface visual, em qualquer tecnologia.
     ```
 
   - O que esperamos como escopo mínimo:
